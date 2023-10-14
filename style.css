@@ -1,0 +1,23 @@
+   body {
+        background-color:rgb(231, 110, 150);
+
+        text-shadow:rgb(110, 231, 140) 1px 1px; 
+
+        }
+        h1 {
+         color: indigo 
+        }
+        h3 {
+            font-size: 25px
+        }
+        div {
+            background-color:rgb(238, 98, 191); 
+            border-style: solid ; border-color: rgb(20, 33, 220); 
+            border-radius: 5px; 
+        }
+        p {
+            font-size: 23px;
+           
+        }
+
+        
